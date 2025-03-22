@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.bigyapanhub.com
         username: admin@bigyapanhub.com
-        password: ${{ secrets.ftp_password }}
+        password: c$dUT@TO~tmH
